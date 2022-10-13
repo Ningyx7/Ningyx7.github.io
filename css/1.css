@@ -1,0 +1,10 @@
+.img1{
+	float: left;
+}
+div{
+	border: 1px solid darkcyan;
+	float: left;
+}
+div img{
+	width: 100px;
+}
